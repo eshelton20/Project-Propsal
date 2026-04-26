@@ -6,7 +6,7 @@ evans06@vt.edu
 MENTOR NAME HERE (TBD)
 
 ## Current Status
-IN PROGRESS - need help with getting PCB printed - already designed
+PROPOSAL STAGE - PCB design completed; pending fabrication and assembly
 
 ## Project Overview
 
@@ -17,7 +17,10 @@ I am in IDP 2804 this semester and have been working on the home audio project. 
 I have had some prior experience with PCB design and soldering, but I wanted to challenge myself with a more complex and larger project than I have done in the past. This PCB is the largest/most complex I have worked with so far, and I want to make a permanent and more compact version of my IDP partner and my audio system. The PCB is about 120mm x 100mm and will house everything that my partner and I had on about two and a half breadboards.
 ## Tasks
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+PCB design verification and manufacture
+Assembly with components onto board
+Board testing
+Assembly of completed board into 3d-printed enclosure (already printed)
 
 ## Design Decisions
 
@@ -33,11 +36,15 @@ I have had some prior experience with PCB design and soldering, but I wanted to 
 
 ## BOM + Component Cost
 
-According to JLCPCB, for my board characteristics, it will cost $30.80 got board manufacturing and $29.51 for shipping for a total of $60.31. All the components I have in my lab kit from ECE 1004. There are other components that I will need for this projcet but I either already owned them or have purchased them, such as an Arduino Nano, more robust 10k potentiometers, and a 12V DC power supply.
+According to JLCPCB, for my board characteristics:
+Manufacturing cost: $30.80
+Shipping: $29.51
+Total: $60.31
+All the components required are in my lab kit from ECE 1004. There are other components that I will need for this project, but I either already own them or have purchased them, such as an Arduino Nano, more robust 10k potentiometers that can be thread-mounted, female audio jacks, and a 12V DC power supply.
 
 ## Timeline
 
-Ideally, the board could be ordered and arrive before the end of the semester. Once the board arrives on campus, it would not take long to solder all the components onto the PCB. Hopefully, I will be able to finish connecting everything within a day or two.
+Ideally, the board could be ordered and arrive before the end of the semester. Once the board arrives on campus, it will not take long to solder all the components onto the PCB. I expect that within the week that the board arrives, the assembly will be complete.
 
 ## Useful Links
 
