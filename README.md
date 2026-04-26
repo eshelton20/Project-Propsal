@@ -33,7 +33,7 @@ I have had some prior experience with PCB design and soldering, but I wanted to 
 
 ## BOM + Component Cost
 
-According to JLCPCB, for my board characteristics, it will cost $30.80 got board manufacturing and $29.51 for shipping for a total of $60.31. All the components I have in my lab kit from ECE 1004. 
+According to JLCPCB, for my board characteristics, it will cost $30.80 got board manufacturing and $29.51 for shipping for a total of $60.31. All the components I have in my lab kit from ECE 1004. There are other components that I will need for this projcet but I either already owned them or have purchased them, such as an Arduino Nano, more robust 10k potentiometers, and a 12V DC power supply.
 
 ## Timeline
 
